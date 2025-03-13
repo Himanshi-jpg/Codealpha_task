@@ -2,7 +2,10 @@ This python script is a simple Hangman game where the player has to guess a rand
 
 FEATURES:-
  1-Random word selection
+ 
  2-Lives system
+ 
  3-Replay option after game ends
+ 
 
 
